@@ -1,4 +1,12 @@
 {
+ "user": [
+    {
+      "username": "ruchi",
+      "email": "ruchi@gmail.com",
+      "password": "1234",
+      "id": 1
+    }
+ ],
     "women":[
         {
             "id":1,
