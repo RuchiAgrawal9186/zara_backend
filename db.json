@@ -1801,7 +1801,7 @@
       ],
       "videoLink": "https://www.youtube.com/watch?v=3XDriUn0udo&t=10s",
       "gh-name": "gabrysia694     ",
-      "image": "https://www.burnthefatinnercircle.com/members/images/2015.png?cb=20230213043730",
+      "image": "https://www.burnthefatinnercircle.com/members/images/2015.png",
       "price": 300,
       "id": 4,
       "category": "strength"
@@ -2114,7 +2114,106 @@
       "id": 24,
       "category": "strength"
     }
-  ]
+  ],
+  "users": [
+    {
+      "id": 1,
+      "email": "michael.lawson@reqres.in",
+      "first_name": "Michael",
+      "last_name": "Lawson",
+      "avatar": "https://reqres.in/img/faces/7-image.jpg",
+      "category": "premium",
+      "charge": 30,
+      "password": "12345678"
+    },
+    {
+      "id": 2,
+      "email": "lindsay.ferguson@reqres.in",
+      "first_name": "Lindsay",
+      "last_name": "Ferguson",
+      "avatar": "https://reqres.in/img/faces/8-image.jpg",
+      "category": "pro",
+      "charge": 45,
+      "password": "12345678"
+    },
+    {
+      "id": 3,
+      "email": "tobias.funke@reqres.in",
+      "first_name": "Tobias",
+      "last_name": "Funke",
+      "avatar": "https://reqres.in/img/faces/9-image.jpg",
+      "category": "pro",
+      "charge": 45,
+      "password": "12345678"
+    },
+    {
+      "id":4,
+      "email": "byron.fields@reqres.in",
+      "first_name": "Byron",
+      "last_name": "Fields",
+      "avatar": "https://reqres.in/img/faces/10-image.jpg",
+      "category": "basic",
+      "charge": 25,
+      "password": "12345678"
+    },
+    {
+      "id": 5,
+      "email": "george.edwards@reqres.in",
+      "first_name": "George",
+      "last_name": "Edwards",
+      "avatar": "https://reqres.in/img/faces/11-image.jpg",
+      "category": "basic",
+      "charge": 25,
+      "password": "12345678"
+    },
+    {
+      "id":6,
+      "email": "rachel.howell@reqres.in",
+      "first_name": "Rachel",
+      "last_name": "Howell",
+      "avatar": "https://reqres.in/img/faces/12-image.jpg",
+      "category": "premium",
+      "charge": 30,
+      "password": "12345678"
+    }
+  ],
+
+  "trainers": [
+    
+   
+    { 
+      "id":1,
+      "img": " https://gymate-iota.vercel.app/static/media/trainer1.2b262907a2293e42de47.png", 
+    "name": "John Lewis",
+     "job": "Yoga Trainer" 
+   },
+    { 
+      "id":2,
+      "img": "https://gymate-iota.vercel.app/static/media/trainer2.e1fe210e1c836343c1fe.png", 
+      "name": "Jonathan Doe", 
+      "job": "Crossfit Trainer"
+     },
+    { 
+      "id":3,
+      "img": "https://gymate-iota.vercel.app/static/media/trainer3.8b049fcaa3d9d0a3f143.png",
+     "name": "Ana June",
+      "job": "Personal Trainer"
+     },
+     { 
+      "id":4,
+      "img": "https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcRQpE2r6aNJ23gJ8f8yRG-A1KUhzqLFZSH99VIErxfZGw&usqp=CAU&ec=48665699",
+     "name": "Ervin Howell",
+      "job": "Yoga Trainer"
+     },
+     { 
+      "id":5,
+      "img": "https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcSDVpXcKMA0uC7KDthOBbzbmgifj2m7TCzQZtYlQmB5Rw&usqp=CAU&ec=48665699",
+     "name": "Leanne Graham",
+      "job": "Personal Trainer"
+     }
+  ],
+  "total_price": 200,
+  "total_users": 6
 
 
 }
