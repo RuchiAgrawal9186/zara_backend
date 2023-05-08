@@ -2211,7 +2211,13 @@
      "name": "Leanne Graham",
       "job": "Personal Trainer"
      }
-  ]
+  ],
+  "total":[
+    {
+    "totalprice": 200,
+    "totalusers": 6
 
+    }
+  ]
 
 }
