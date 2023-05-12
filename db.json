@@ -2117,7 +2117,7 @@
   ],
   "users": [
     {
-      "id": 1,
+      "id": "michael.lawson@reqres.in",
       "email": "michael.lawson@reqres.in",
       "first_name": "Michael",
       "last_name": "Lawson",
@@ -2127,7 +2127,7 @@
       "password": "12345678"
     },
     {
-      "id": 2,
+      "id": "lindsay.ferguson@reqres.in",
       "email": "lindsay.ferguson@reqres.in",
       "first_name": "Lindsay",
       "last_name": "Ferguson",
@@ -2137,7 +2137,7 @@
       "password": "12345678"
     },
     {
-      "id": 3,
+      "id": "obias.funke@reqres.in",
       "email": "tobias.funke@reqres.in",
       "first_name": "Tobias",
       "last_name": "Funke",
@@ -2147,7 +2147,7 @@
       "password": "12345678"
     },
     {
-      "id":4,
+      "id": "byron.fields@reqres.in",
       "email": "byron.fields@reqres.in",
       "first_name": "Byron",
       "last_name": "Fields",
@@ -2157,17 +2157,7 @@
       "password": "12345678"
     },
     {
-      "id": 5,
-      "email": "george.edwards@reqres.in",
-      "first_name": "George",
-      "last_name": "Edwards",
-      "avatar": "https://reqres.in/img/faces/11-image.jpg",
-      "category": "basic",
-      "charge": 25,
-      "password": "12345678"
-    },
-    {
-      "id":6,
+      "id": "rachel.howell@reqres.in",
       "email": "rachel.howell@reqres.in",
       "first_name": "Rachel",
       "last_name": "Howell",
@@ -2175,9 +2165,23 @@
       "category": "premium",
       "charge": 30,
       "password": "12345678"
+    },
+    {
+      "email": "a@123",
+      "first_name": "Ashish ",
+      "last_name": "NANGARE",
+      "avatar": "https://reqres.in/img/faces/7-image.jpg",
+      "category": "premium",
+      "charge": 30,
+      "password": "aaa",
+      "id": "a@123"
     }
   ],
-
+  "userAnalysis":[{
+    "premium":3,
+    "basic":1,
+    "pro":2
+  }],
   "trainers": [
     
    
